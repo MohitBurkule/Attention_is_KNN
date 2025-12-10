@@ -2,6 +2,11 @@
 
 Visualizing the explicit mathematical equivalence between Transformer Attention and Nadaraya-Watson Kernel Regression.
 
+
+https://github.com/user-attachments/assets/96be729d-93d7-4286-8298-abcbfb216f04
+
+
+
 ## Live Demo
 
 Check out the live visualization here: [https://mohitburkule.github.io/Attention_is_KNN/](https://mohitburkule.github.io/Attention_is_KNN/)
