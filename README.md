@@ -67,4 +67,3 @@ start index.html # On Windows
 - HTML5 Canvas
 - Tailwind CSS
 - MathJax (for rendering equations)
-- Google Gemini API (integrated in the code for generating explanations)
